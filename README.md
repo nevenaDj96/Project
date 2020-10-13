@@ -1,2 +1,2 @@
 # Project
- Laravel
+ Primary language PHP
